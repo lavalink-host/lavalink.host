@@ -46,5 +46,6 @@
       "preset": "emotion",
       "includeClassNames": true
     }
-  }
+  },
+  "packageManager": "yarn@3.3.0"
 }

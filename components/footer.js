@@ -22,14 +22,14 @@ export default function Footer() {
                 <a className="flex items-center space-x-2 text-2xl font-medium text-indigo-500 dark:text-gray-100">
                   <span>
                     <img
-                      src="/black.png"
+                      src="/brandbook/png/transparent/cropped/multi-black-short.png"
                       alt="N"
                       width="32"
                       height="32"
                       className="w-8"
                     />
                   </span>
-                  <span className="font-large">lavalink.host</span>
+                  <span className="text-lg">lavalink.host</span>
                 </a>
               </Link>
             </div>
