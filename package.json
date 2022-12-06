@@ -1,0 +1,50 @@
+{
+  "name": "lavalink",
+  "version": "0.1.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gituhb.com/lavalink-host/lavalink.host"
+  },
+  "keywords": [
+    "nextjs",
+    "tailwindcss"
+  ],
+  "author": "avixityyt",
+  "license": "ISC",
+  "dependencies": {
+    "@emotion/css": "^11.10.5",
+    "@emotion/react": "^11.10.5",
+    "@emotion/server": "^11.10.0",
+    "@emotion/styled": "^11.10.5",
+    "@headlessui/react": "^1.7.4",
+    "@heroicons/react": "^1.0.6",
+    "@tailwindcss/aspect-ratio": "^0.4.2",
+    "next": "^13.0.6",
+    "next-themes": "^0.2.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-hook-form": "^7.40.0"
+  },
+  "devDependencies": {
+    "@emotion/babel-plugin": "^11.3.0",
+    "autoprefixer": "^10.0.4",
+    "babel-plugin-macros": "^3.1.0",
+    "babel-plugin-twin": "^1.0.2",
+    "postcss": "^8.1.10",
+    "tailwindcss": "^2.2.2",
+    "twin.macro": "^2.5.0"
+  },
+  "babelMacros": {
+    "twin": {
+      "preset": "emotion",
+      "includeClassNames": true
+    }
+  }
+}
