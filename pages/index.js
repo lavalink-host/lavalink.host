@@ -22,7 +22,7 @@ export default function Home() {
           name="description"
           content="lavalink.host is a free lavalink server hosting service. We provide lavalink servers for everyone."
         />
-         <link rel="icon" href="/black.png" /> 
+         <link rel="icon" href="/brandbook/png/transparent/cropped/multi-black-short.png" /> 
       </Head>
 
       <Navbar />

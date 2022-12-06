@@ -9,7 +9,7 @@ import {
   ServerIcon,
 } from "@heroicons/react/outline";
 
-import blackLogo from "../public/black.png";
+import blackLogo from "../public/brandbook/png/transparent/cropped/multi-black-short.png";
 
 const benefitOne = {
   title: "Reliability & Performance",

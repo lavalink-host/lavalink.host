@@ -1,0 +1,3 @@
+[submodule "public/brandbook"]
+	path = public/brandbook
+	url = https://github.com/lavalink-host/brandbook
